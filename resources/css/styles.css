@@ -62,3 +62,26 @@ ul li {
 .mobile-nav {
   display: none;
 }
+
+header .flex {
+  justify-content: flex-end;
+}
+
+.flex {
+  display: flex;
+}
+
+.main-banner {
+background-color: white;
+padding: 0.75rem 5rem;
+display: inline-block;
+margin-top: 10rem;
+margin-right: -2rem;
+line-height: 2.4rem;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: .67em 0;
+}
